@@ -1576,7 +1576,7 @@ ac_cv_lib_resolv_main=${ac_cv_lib_resolv_main=yes}
 ac_cv_lib_rt_main=${ac_cv_lib_rt_main=yes}
 ac_cv_lib_socket_main=${ac_cv_lib_socket_main=no}
 ac_cv_lib_util_main=${ac_cv_lib_util_main=yes}
-ac_cv_lib_xnet_main=${ac_cv_lib_xnet_main=yes}
+ac_cv_lib_xnet_main=${ac_cv_lib_xnet_main=no}
 ac_cv_member_struct_dirent_d_ino=${ac_cv_member_struct_dirent_d_ino=yes}
 ac_cv_member_struct_dirent_d_type=${ac_cv_member_struct_dirent_d_type=yes}
 ac_cv_member_struct_stat_st_blocks=${ac_cv_member_struct_stat_st_blocks=yes}
